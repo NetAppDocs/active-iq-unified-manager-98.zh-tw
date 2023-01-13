@@ -1,0 +1,38 @@
+---
+permalink: online-help/task-enabling-periodic-autosupport.html 
+sidebar: sidebar 
+keywords: Active IQ 
+summary: 您可以選擇由AutoSupport Unified Manager自動傳送特定的預先定義資訊訊息給技術支援部門、以確保環境正常運作、並協助您維護環境的完整性。根據預設、系統會啟用此功能、因此您不得停用此功能、以獲得NetAppActive IQ的好處AutoSupport 。 
+---
+= 實現定期AutoSupport 更新
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+您可以選擇由AutoSupport Unified Manager自動傳送特定的預先定義資訊訊息給技術支援部門、以確保環境正常運作、並協助您維護環境的完整性。根據預設、系統會啟用此功能、因此您不得停用此功能、以獲得NetAppActive IQ的好處AutoSupport 。
+
+
+
+== 開始之前
+
+您必須以維護使用者的身分登入。
+
+
+
+== 關於這項工作
+
+支援以Web為基礎的應用程式、可在支援的功能上使用瀏覽器存取NetApp 支援網站 Active IQ 。您的系統必須AutoSupport 啟用並設定為啟用支援功能、才能將資料傳回NetApp。
+
+https://mysupport.netapp.com/info/web/AboutAIQ.html["NetApp Active IQ"]
+
+
+
+== 步驟
+
+. 在左側導覽窗格中、按一下*一般*>* AutoSupport 參考*。
+. 勾選*「啟用AutoSupport 定期將資料傳送至Active IQ S供 參考*」核取方塊。
+. 如有需要、請定義HTTP Proxy伺服器的名稱、連接埠和驗證資訊。
+. 按一下「 * 儲存 * 」。
+
