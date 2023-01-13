@@ -12720,8 +12720,6 @@
   <block id="daf5556e2cd44d363ebb94f982b54758" category="sidebar">解決保護工作故障（資料保護）</block>
   <block id="63c702324d7a2f1acfb2291776c09e62" category="sidebar">管理及監控保護關係（資料保護）</block>
   <block id="721e2c530014fb77b39a26e93e0ef94b" category="sidebar">保護關係視窗和對話方塊說明（資料保護）</block>
-  <block id="09d454f0bf432593d99fbfd84c9f9293" category="sidebar">執行組態和管理工作</block>
-  <block id="8b00815fc5298212e3dc28a279ed4a10" category="sidebar">產生自訂報告</block>
   <block id="5fc23f7e4ef2f5b01f7034e6f2ceb340" category="sidebar">在VMware vSphere系統上安裝Unified Manager</block>
   <block id="32d8b1bb1bdc5067bfbde495253b3469" category="sidebar">監控及管理叢集健全狀況</block>
   <block id="0cdc2e43fd617d44b61e3c28d05ef9e7" category="sidebar">管理健全狀況臨界值（叢集健全狀況）</block>
@@ -12737,11 +12735,6 @@
   <block id="458c6c03d066ca184930dd208d270f0f" category="sidebar">什麼是Unified Manager維護時段（叢集健全狀況）</block>
   <block id="b6a37febbfcd299253addfaef17d14d2" category="sidebar">管理SAML驗證設定（叢集健全狀況）</block>
   <block id="b18762187a76685e14050770c534b8bf" category="sidebar">事件詳細資料頁面（叢集健全狀況）</block>
-  <block id="c1a9193a29dc40ec352c6691d67ab578" category="sidebar">在Windows系統上安裝Unified Manager</block>
-  <block id="a0af5ca8f7344392b5c82b109a63af72" category="sidebar">介紹功能（Windows系統Active IQ Unified Manager ）</block>
-  <block id="70104377094a1b08793fc5ab5e6bbf34" category="sidebar">安裝Unified Manager（Windows系統）的需求</block>
-  <block id="8d6c82b2ac4ea5256730039b09b01a10" category="sidebar">安裝、升級及移除Unified Manager軟體（Windows系統）</block>
-  <block id="013bd757b5f39b48944aa701029bfff3" category="sidebar">升級協力廠商產品（Windows系統）</block>
   <block id="6f047d4c177cc734ed65cb347cf6bd42" category="sidebar">監控及管理叢集效能</block>
   <block id="7b6c318fd25f9f3167946ff1cd519b37" category="sidebar">管理效能臨界值（叢集效能）</block>
   <block id="5cee3e2a7d9fd3a450c386f7bc50f8d8" category="sidebar">使用工作負載分析器疑難排解工作負載（叢集效能）</block>
@@ -12771,4 +12764,9 @@
   <block id="5c5b460958d8a157f04ee9220402180a" category="sidebar">安裝Unified Manager（Linux系統）的需求</block>
   <block id="0be34adafb7168f113c5bc1ba63d91a6" category="sidebar">安裝、升級及移除Unified Manager軟體（Linux系統）</block>
   <block id="5756bb66030fc01fd59788fc576e4822" category="sidebar">安裝/opp/netapp的SELinux需求</block>
+  <block id="9fde9515d3a1ede8d6f12a1892c894ec" category="sidebar">線上說明</block>
+  <block id="d667ab1eefcedffdc31f52ebff9d478d" category="sidebar">介紹功能（管理與監控Active IQ Unified Manager ）</block>
+  <block id="21287f9310da73025b9619111ce2ce7e" category="sidebar">當我看到 <strong>「修正」</strong><strong></strong> 或「全部修正」按鈕時、我有哪些選項</block>
+  <block id="19966a54541b838c85278932c36c8122" category="sidebar">變更Unified Manager主機名稱（管理及監控）</block>
+  <block id="433a3de67ad10a966d2b8b61c37210d2" category="sidebar">將磁碟空間新增至Unified Manager資料庫目錄（管理及監控）</block>
 </blocks>
