@@ -1,6 +1,6 @@
 ---
 section: health-checker
-title: 32d8b1bb1bdc5067bfbde495253b3469
+title: 監控及管理叢集健全狀況
 entries:
 - title: 介紹不健全狀況監控Active IQ Unified Manager
   url: "/health-checker/concept-introduction-to-unified-manager-health-monitoring.html"
@@ -38,13 +38,13 @@ entries:
     - title: 針對完整Volume執行建議的補救行動
       url: "/health-checker/task-performing-suggested-remedial-actions-for-a-full-volume.html"
   - title: 管理健全狀況臨界值
-    pdf-filename: 0cdc2e43fd617d44b61e3c28d05ef9e7
+    pdf-filename: 管理健全狀況臨界值（叢集健全狀況）
     url: "/health-checker/concept-managing-health-thresholds.html"
     entries:
     - title: 什麼是儲存容量健全狀況臨界值
       url: "/health-checker/concept-what-storage-capacity-health-thresholds-are.html"
     - title: 設定全域健全狀況臨界值設定
-      pdf-filename: a4d86585f88de3caa783eefc33f81448
+      pdf-filename: 設定全域健全狀況臨界值設定（叢集健全狀況）
       url: "/health-checker/task-configuring-global-health-threshold-settings.html"
       entries:
       - title: 設定全域Aggregate健全狀況臨界值
@@ -62,11 +62,11 @@ entries:
     - title: 編輯個別qtree健全狀況臨界值設定
       url: "/health-checker/task-editing-individual-qtree-health-threshold-settings.html"
   - title: 管理叢集安全目標
-    pdf-filename: d399cb65a45975e7bdfbe00c026f9e54
+    pdf-filename: 管理叢集安全性目標（叢集健全狀況）
     url: "/health-checker/concept-managing-cluster-security-objectives.html"
     entries:
     - title: 正在評估哪些安全性準則
-      pdf-filename: 595ab232cf3a33e7d9061971978c8478
+      pdf-filename: 正在評估哪些安全性準則（叢集健全狀況）
       url: "/health-checker/concept-what-security-criteria-is-being-evaluated.html"
       entries:
       - title: 叢集規範類別
@@ -96,13 +96,13 @@ entries:
     - title: 安全事件
       url: "/health-checker/reference-security-events.html"
   - title: 管理備份與還原作業
-    pdf-filename: 99f7fc554597facf78ccd7bebb349a82
+    pdf-filename: 管理備份與還原作業（叢集健全狀況）
     url: "/health-checker/concept-managing-backup-and-restore-operations.html"
     entries:
     - title: 虛擬應用裝置備份與還原程序
       url: "/health-checker/concept-backup-and-restore-on-virtual-appliance.html"
     - title: 使用MySQL資料庫傾印進行備份與還原
-      pdf-filename: 3b1058ff08792a3433d6a10b9fb8b6fe
+      pdf-filename: 使用MySQL資料庫傾印進行備份與還原（叢集健全狀況）
       url: "/health-checker/concept-backup-and-restore-using-a-mysql-database-dump.html"
       entries:
       - title: 設定資料庫傾印備份的目的地和排程
@@ -114,7 +114,7 @@ entries:
       - title: 在Windows上還原MySQL資料庫備份
         url: "/health-checker/task-restoring-a-mysql-database-backup-on-windows.html"
     - title: 使用NetApp Snapshot進行備份與還原
-      pdf-filename: 534c8d4c808923383712e17e50530568
+      pdf-filename: 使用NetApp Snapshot（叢集健全狀況）進行備份與還原
       url: "/health-checker/concept-backup-and-restore-using-netapp-snapshots.html"
       entries:
       - title: 建立儲存備份的磁碟區
@@ -128,7 +128,7 @@ entries:
     - title: 將Unified Manager虛擬應用裝置移轉至Linux系統
       url: "/health-checker/task-migrating-a-unified-manager-virtual-appliance-to-a-rhel-or-centos-system.html"
   - title: 管理指令碼
-    pdf-filename: 41373b97896fa2cbe5f9c98d158879dc
+    pdf-filename: 管理指令碼（叢集健全狀況）
     url: "/health-checker/concept-managing-scripts.html"
     entries:
     - title: 指令碼如何使用警示
@@ -140,11 +140,11 @@ entries:
     - title: 測試指令碼執行
       url: "/health-checker/task-testing-script-execution.html"
   - title: 管理及監控群組
-    pdf-filename: 8cb3de1dd32fe03b6b18b81a93da83e8
+    pdf-filename: 管理及監控群組（叢集健全狀況）
     url: "/health-checker/concept-managing-and-monitoring-groups.html"
     entries:
     - title: 瞭解群組
-      pdf-filename: ed4a47a0df5e1dccb40840219fa50571
+      pdf-filename: 瞭解群組（叢集健全狀況）
       url: "/health-checker/concept-understanding-groups.html"
       entries:
       - title: 什麼是群組
@@ -210,7 +210,7 @@ entries:
     - title: 重新排列註釋規則
       url: "/health-checker/task-reordering-annotation-rules.html"
   - title: 什麼是Unified Manager維護所需時間
-    pdf-filename: 458c6c03d066ca184930dd208d270f0f
+    pdf-filename: 什麼是Unified Manager維護時段（叢集健全狀況）
     url: "/health-checker/concept-what-a-um-maintenance-window-is.html"
     entries:
     - title: 排程維護時間以停用叢集事件通知
@@ -220,7 +220,7 @@ entries:
     - title: 檢視維護期間發生的事件
       url: "/health-checker/task-viewing-events-that-occurred-during-a-maintenance-window.html"
   - title: 管理SAML驗證設定
-    pdf-filename: b6a37febbfcd299253addfaef17d14d2
+    pdf-filename: 管理SAML驗證設定（叢集健全狀況）
     url: "/health-checker/concept-managing-saml-authentication-settings-um.html"
     entries:
     - title: 身分識別供應商要求
@@ -258,7 +258,7 @@ entries:
     - title: 確認並解決事件
       url: "/health-checker/task-acknowledging-and-resolving-events.html"
     - title: 活動詳細資料頁面
-      pdf-filename: b18762187a76685e14050770c534b8bf
+      pdf-filename: 事件詳細資料頁面（叢集健全狀況）
       url: "/health-checker/reference-event-details-page.html"
       entries:
       - title: "「事件資訊」區段的顯示內容"
