@@ -1,6 +1,6 @@
 ---
 section: performance-checker
-title: 監控及管理叢集效能
+title: 6f047d4c177cc734ed65cb347cf6bd42
 entries:
 - title: 介紹功能介紹：效能監控Active IQ Unified Manager
   url: "/performance-checker/concept-introduction-to-unified-manager-performance-monitoring.html"
@@ -53,7 +53,7 @@ entries:
   - title: 系統定義的效能臨界值原則類型
     url: "/performance-checker/reference-types-of-system-defined-performance-threshold-policies.html"
 - title: 管理效能臨界值
-  pdf-filename: 管理效能臨界值（叢集效能）
+  pdf-filename: 7b6c318fd25f9f3167946ff1cd519b37
   url: "/performance-checker/concept-managing-performance-thresholds.html"
   entries:
   - title: 使用者定義的效能臨界值原則運作方式
@@ -88,7 +88,7 @@ entries:
   - title: 變更效能統計資料收集時間間隔
     url: "/performance-checker/task-changing-the-performance-statistics-collection-interval.html"
 - title: 使用工作負載分析器疑難排解工作負載
-  pdf-filename: 使用工作負載分析器疑難排解工作負載（叢集效能）
+  pdf-filename: 5cee3e2a7d9fd3a450c386f7bc50f8d8
   url: "/performance-checker/concept-troubleshooting-workloads-using-the-workload-analyzer.html"
   entries:
   - title: 工作負載分析器會顯示哪些資料
@@ -98,17 +98,17 @@ entries:
   - title: 使用工作負載分析器
     url: "/performance-checker/task-using-the-workload-analyzer.html"
 - title: 從效能叢集登陸頁面監控叢集效能
-  pdf-filename: 從效能叢集登陸頁面監控叢集效能（叢集效能）
+  pdf-filename: 4055607a505292e96a80554fd58a4e64
   url: "/performance-checker/concept-monitoring-cluster-performance-from-the-cluster-landing-page.html"
   entries:
   - title: 瞭解效能叢集登陸頁面
     url: "/performance-checker/concept-understanding-the-performance-cluster-landing-page.html"
   - title: 效能叢集登陸頁面
-    pdf-filename: 效能叢集登陸頁面（叢集效能）
+    pdf-filename: 0db41ee78b37bb6a911896e1706e1db1
     url: "/performance-checker/reference-performance-cluster-landing-page.html"
     entries:
     - title: 效能叢集摘要頁面
-      pdf-filename: Performance Cluster Summary（效能叢集摘要）頁面（叢集效能）
+      pdf-filename: 14c992efb73d9230b778a5be1e48b109
       url: "/performance-checker/reference-cluster-summary-page-opm.html"
       entries:
       - title: 叢集效能事件窗格
@@ -118,13 +118,13 @@ entries:
     - title: 績效最佳者頁面
       url: "/performance-checker/reference-top-performers-page.html"
 - title: 使用「效能詳細目錄」頁面監控效能
-  pdf-filename: 使用「Performance Inventory」（效能資源清冊）頁面監控效能（叢集效能）
+  pdf-filename: bd4d7fc7efe51394c5609e7028a89161
   url: "/performance-checker/concept-monitoring-performance-using-the-object-performance-inventory-pages.html"
   entries:
   - title: 使用效能物件資源清冊頁面進行物件監控
     url: "/performance-checker/concept-object-monitoring-using-the-object-inventory-performance-pages.html"
   - title: 精簡效能詳細目錄頁面內容
-    pdf-filename: 精簡效能詳細目錄頁面內容（叢集效能）
+    pdf-filename: 60e931429de36a253ed4281414506246
     url: "/performance-checker/concept-refining-object-inventory-performance-page-content.html"
     entries:
     - title: 在「物件庫存管理效能」頁面上搜尋
@@ -136,7 +136,7 @@ entries:
   - title: 瞭解Unified Manager將資料分層至雲端的建議
     url: "/performance-checker/concept-understanding-the-um-recommendations-to-tier-data-to-the-cloud.html"
 - title: 使用Performance Explorer頁面監控效能
-  pdf-filename: 使用Performance Explorer頁面監控效能（叢集效能）
+  pdf-filename: cd98155c9ebd0b4e5798d08fe818d0c0
   url: "/performance-checker/concept-monitoring-performance-using-the-performance-explorer-pages.html"
   entries:
   - title: 瞭解根物件
@@ -144,7 +144,7 @@ entries:
   - title: 套用篩選以減少網格中關聯物件的清單
     url: "/performance-checker/concept-applying-filtering-to-correlated-objects.html"
   - title: 指定關聯物件的時間範圍
-    pdf-filename: 指定關聯物件的時間範圍（叢集效能）
+    pdf-filename: 3bfdbbba06a0da9a30e5dfb4f4a5c52b
     url: "/performance-checker/task-specifying-a-correlated-objects-time-range.html"
     entries:
     - title: 選取預先定義的時間範圍
@@ -166,7 +166,7 @@ entries:
   - title: 在「事件時間表」中檢視事件詳細資料
     url: "/performance-checker/task-viewing-event-details-in-the-performance-explorer-events-timeline.html"
   - title: 計數器圖表縮放檢視
-    pdf-filename: 計數器圖表縮放檢視（叢集效能）
+    pdf-filename: 7e3d11e39c296556e26128597a83be5f
     url: "/performance-checker/concept-counter-charts-zoom-view.html"
     entries:
     - title: 顯示Counter圖表縮放檢視
@@ -186,7 +186,7 @@ entries:
   - title: 根據只駐留在本機節點上的工作負載來檢視節點IOPS
     url: "/performance-checker/task-viewing-node-iops-based-on-workloads-that-reside-only-on-the-local-node.html"
   - title: 物件登陸頁面的元件
-    pdf-filename: 物件登陸頁面的元件（叢集效能）
+    pdf-filename: 997c11eb30499c63077ded6cd0af0797
     url: "/performance-checker/concept-components-of-the-object-landing-pages-opm.html"
     entries:
     - title: 摘要頁面
@@ -194,7 +194,7 @@ entries:
     - title: Performance Explorer頁面的元件
       url: "/performance-checker/concept-components-of-the-performance-explorer-page.html"
 - title: 使用QoS原則群組資訊來管理效能
-  pdf-filename: 使用QoS原則群組資訊來管理效能（叢集效能）
+  pdf-filename: 13863084fbe609ffbdbde5379b405b9f
   url: "/performance-checker/concept-managing-performance-using-qos-policy-group-information.html"
   entries:
   - title: 儲存QoS如何控制工作負載處理量
@@ -212,7 +212,7 @@ entries:
   - title: 在Performance Explorer中檢視工作負載QoS的最小和最大設定
     url: "/performance-checker/task-viewing-workload-qos-minimum-and-maximum-settings.html"
 - title: 使用效能容量和可用IOPS資訊來管理效能
-  pdf-filename: 使用效能容量和可用IOPS資訊來管理效能（叢集效能）
+  pdf-filename: 833536b007e5dc522ec95154291d5673
   url: "/performance-checker/concept-managing-performance-using-perf-capacity-and-available-iops-information.html"
   entries:
   - title: 使用的效能容量是多少
@@ -232,7 +232,7 @@ entries:
   - title: 使用效能容量來管理效能
     url: "/performance-checker/concept-using-the-performance-capacity-used-counter-to-manage-performance.html"
 - title: 瞭解及使用「節點容錯移轉規劃」頁面
-  pdf-filename: 瞭解及使用「節點容錯移轉規劃」頁面（叢集效能）
+  pdf-filename: f7d8295b62383c5905f73d94fab2a91d
   url: "/performance-checker/reference-understanding-and-using-the-node-failover-planning-page.html"
   entries:
   - title: 使用「節點容錯移轉規劃」頁面來判斷修正動作
@@ -244,7 +244,7 @@ entries:
   - title: 使用效能使用容量明細表進行容錯移轉規劃
     url: "/performance-checker/task-using-the-perf-capacity-used-breakdown-chart-for-failover-planning.html"
 - title: 收集資料並監控工作負載效能
-  pdf-filename: 收集資料並監控工作負載效能（叢集效能）
+  pdf-filename: 31c08b81891f5ffa387874cd28b4729a
   url: "/performance-checker/concept-collecting-data-and-monitoring-workload-performance.html"
   entries:
   - title: 由Unified Manager監控的工作負載類型
@@ -260,13 +260,13 @@ entries:
   - title: 叢集作業如何影響工作負載延遲
     url: "/performance-checker/concept-how-cluster-operations-can-affect-workload-latency.html"
   - title: 效能監控MetroCluster 功能
-    pdf-filename: 效能監控MetroCluster 功能、可監控各種組態（叢集效能）
+    pdf-filename: a64ee0d6babd0439c9f3674e47406b5f
     url: "/performance-checker/concept-performance-monitoring-of-metrocluster-configurations.html"
     entries:
     - title: 切換和切換期間的Volume行為
       url: "/performance-checker/concept-volume-behavior-during-switchover-and-switchback.html"
   - title: 什麼是效能事件
-    pdf-filename: 什麼是效能事件（叢集效能）
+    pdf-filename: 93bc2e54f1178627cbf74d7ff9d4d422
     url: "/performance-checker/concept-what-performance-events-are.html"
     entries:
     - title: 效能事件分析與通知
@@ -278,19 +278,19 @@ entries:
     - title: 效能事件所涉及的工作負載角色
       url: "/performance-checker/concept-roles-of-workloads-involved-in-a-performance-incident.html"
 - title: 分析效能事件
-  pdf-filename: 分析效能事件（叢集效能）
+  pdf-filename: 8096ca2fd7af9cca5f4e4e621ddfe88e
   url: "/performance-checker/concept-analyzing-performance-events.html"
   entries:
   - title: 顯示效能事件的相關資訊
     url: "/performance-checker/task-displaying-information-about-a-performance-event.html"
   - title: 從使用者定義的效能臨界值分析事件
-    pdf-filename: 從使用者定義的效能臨界值分析事件（叢集效能）
+    pdf-filename: 1f7b694fa151b6e5e94d108b2f19dff2
     url: "/performance-checker/concept-analyzing-events-from-user-defined-performance-thresholds.html"
     entries:
     - title: 回應使用者定義的效能臨界值事件
       url: "/performance-checker/task-responding-to-user-defined-performance-threshold-events.html"
   - title: 從系統定義的效能臨界值分析事件
-    pdf-filename: 從系統定義的效能臨界值分析事件（叢集效能）
+    pdf-filename: 89c39eda634097d08c2d019a482285c2
     url: "/performance-checker/concept-analyzing-events-from-system-defined-performance-thresholds.html"
     entries:
     - title: 回應系統定義的效能臨界值事件
@@ -304,7 +304,7 @@ entries:
     - title: 回應叢集不平衡的效能事件
       url: "/performance-checker/task-responding-to-cluster-imbalance-performance-events.html"
   - title: 從動態效能臨界值分析事件
-    pdf-filename: 從動態效能臨界值分析事件（叢集效能）
+    pdf-filename: a5f9c0660ea467c7c86afc1f051b7386
     url: "/performance-checker/concept-analyzing-events-from-dynamic-performance-thresholds.html"
     entries:
     - title: 識別涉及動態效能事件的受害者工作負載
@@ -314,7 +314,7 @@ entries:
     - title: 識別動態效能事件所涉及的工作負載
       url: "/performance-checker/task-identifying-shark-workloads-involved-in-a-performance-event.html"
     - title: 效能事件分析MetroCluster 、以利進行效能分析
-      pdf-filename: 效能事件分析MetroCluster 、以利進行效能分析（叢集效能）
+      pdf-filename: 78ad073c3d86b8f6327c6e3f8b6530e4
       url: "/performance-checker/concept-performance-incident-analysis-for-a-metrocluster-configuration.html"
       entries:
       - title: 分析MetroCluster 叢集上的動態效能事件、使其採用VMware的組態

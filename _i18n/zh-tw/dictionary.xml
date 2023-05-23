@@ -12721,52 +12721,11 @@
   <block id="63c702324d7a2f1acfb2291776c09e62" category="sidebar">管理及監控保護關係（資料保護）</block>
   <block id="721e2c530014fb77b39a26e93e0ef94b" category="sidebar">保護關係視窗和對話方塊說明（資料保護）</block>
   <block id="5fc23f7e4ef2f5b01f7034e6f2ceb340" category="sidebar">在VMware vSphere系統上安裝Unified Manager</block>
-  <block id="32d8b1bb1bdc5067bfbde495253b3469" category="sidebar">監控及管理叢集健全狀況</block>
-  <block id="0cdc2e43fd617d44b61e3c28d05ef9e7" category="sidebar">管理健全狀況臨界值（叢集健全狀況）</block>
-  <block id="a4d86585f88de3caa783eefc33f81448" category="sidebar">設定全域健全狀況臨界值設定（叢集健全狀況）</block>
-  <block id="d399cb65a45975e7bdfbe00c026f9e54" category="sidebar">管理叢集安全性目標（叢集健全狀況）</block>
-  <block id="595ab232cf3a33e7d9061971978c8478" category="sidebar">正在評估哪些安全性準則（叢集健全狀況）</block>
-  <block id="99f7fc554597facf78ccd7bebb349a82" category="sidebar">管理備份與還原作業（叢集健全狀況）</block>
-  <block id="3b1058ff08792a3433d6a10b9fb8b6fe" category="sidebar">使用MySQL資料庫傾印進行備份與還原（叢集健全狀況）</block>
-  <block id="534c8d4c808923383712e17e50530568" category="sidebar">使用NetApp Snapshot（叢集健全狀況）進行備份與還原</block>
-  <block id="41373b97896fa2cbe5f9c98d158879dc" category="sidebar">管理指令碼（叢集健全狀況）</block>
-  <block id="8cb3de1dd32fe03b6b18b81a93da83e8" category="sidebar">管理及監控群組（叢集健全狀況）</block>
-  <block id="ed4a47a0df5e1dccb40840219fa50571" category="sidebar">瞭解群組（叢集健全狀況）</block>
-  <block id="458c6c03d066ca184930dd208d270f0f" category="sidebar">什麼是Unified Manager維護時段（叢集健全狀況）</block>
-  <block id="b6a37febbfcd299253addfaef17d14d2" category="sidebar">管理SAML驗證設定（叢集健全狀況）</block>
-  <block id="b18762187a76685e14050770c534b8bf" category="sidebar">事件詳細資料頁面（叢集健全狀況）</block>
-  <block id="6f047d4c177cc734ed65cb347cf6bd42" category="sidebar">監控及管理叢集效能</block>
-  <block id="7b6c318fd25f9f3167946ff1cd519b37" category="sidebar">管理效能臨界值（叢集效能）</block>
-  <block id="5cee3e2a7d9fd3a450c386f7bc50f8d8" category="sidebar">使用工作負載分析器疑難排解工作負載（叢集效能）</block>
-  <block id="4055607a505292e96a80554fd58a4e64" category="sidebar">從效能叢集登陸頁面監控叢集效能（叢集效能）</block>
-  <block id="0db41ee78b37bb6a911896e1706e1db1" category="sidebar">效能叢集登陸頁面（叢集效能）</block>
-  <block id="14c992efb73d9230b778a5be1e48b109" category="sidebar">Performance Cluster Summary（效能叢集摘要）頁面（叢集效能）</block>
-  <block id="bd4d7fc7efe51394c5609e7028a89161" category="sidebar">使用「Performance Inventory」（效能資源清冊）頁面監控效能（叢集效能）</block>
-  <block id="60e931429de36a253ed4281414506246" category="sidebar">精簡效能詳細目錄頁面內容（叢集效能）</block>
-  <block id="cd98155c9ebd0b4e5798d08fe818d0c0" category="sidebar">使用Performance Explorer頁面監控效能（叢集效能）</block>
-  <block id="3bfdbbba06a0da9a30e5dfb4f4a5c52b" category="sidebar">指定關聯物件的時間範圍（叢集效能）</block>
-  <block id="7e3d11e39c296556e26128597a83be5f" category="sidebar">計數器圖表縮放檢視（叢集效能）</block>
-  <block id="997c11eb30499c63077ded6cd0af0797" category="sidebar">物件登陸頁面的元件（叢集效能）</block>
-  <block id="13863084fbe609ffbdbde5379b405b9f" category="sidebar">使用QoS原則群組資訊來管理效能（叢集效能）</block>
-  <block id="833536b007e5dc522ec95154291d5673" category="sidebar">使用效能容量和可用IOPS資訊來管理效能（叢集效能）</block>
-  <block id="f7d8295b62383c5905f73d94fab2a91d" category="sidebar">瞭解及使用「節點容錯移轉規劃」頁面（叢集效能）</block>
-  <block id="31c08b81891f5ffa387874cd28b4729a" category="sidebar">收集資料並監控工作負載效能（叢集效能）</block>
-  <block id="a64ee0d6babd0439c9f3674e47406b5f" category="sidebar">效能監控MetroCluster 功能、可監控各種組態（叢集效能）</block>
-  <block id="93bc2e54f1178627cbf74d7ff9d4d422" category="sidebar">什麼是效能事件（叢集效能）</block>
-  <block id="8096ca2fd7af9cca5f4e4e621ddfe88e" category="sidebar">分析效能事件（叢集效能）</block>
-  <block id="1f7b694fa151b6e5e94d108b2f19dff2" category="sidebar">從使用者定義的效能臨界值分析事件（叢集效能）</block>
-  <block id="89c39eda634097d08c2d019a482285c2" category="sidebar">從系統定義的效能臨界值分析事件（叢集效能）</block>
-  <block id="a5f9c0660ea467c7c86afc1f051b7386" category="sidebar">從動態效能臨界值分析事件（叢集效能）</block>
-  <block id="78ad073c3d86b8f6327c6e3f8b6530e4" category="sidebar">效能事件分析MetroCluster 、以利進行效能分析（叢集效能）</block>
   <block id="77d7ce66941e6a8a53f84f813d2b2bf1" category="sidebar">使用REST API管理儲存設備</block>
   <block id="1d6677925b878ba927adf44f615f75db" category="sidebar">在Linux系統上安裝Unified Manager</block>
   <block id="6d965e3523cbb8faf3f4fa1d2fa45204" category="sidebar">介紹功能（Linux系統Active IQ Unified Manager ）</block>
   <block id="5c5b460958d8a157f04ee9220402180a" category="sidebar">安裝Unified Manager（Linux系統）的需求</block>
   <block id="0be34adafb7168f113c5bc1ba63d91a6" category="sidebar">安裝、升級及移除Unified Manager軟體（Linux系統）</block>
   <block id="5756bb66030fc01fd59788fc576e4822" category="sidebar">安裝/opp/netapp的SELinux需求</block>
-  <block id="9fde9515d3a1ede8d6f12a1892c894ec" category="sidebar">線上說明</block>
-  <block id="d667ab1eefcedffdc31f52ebff9d478d" category="sidebar">介紹功能（管理與監控Active IQ Unified Manager ）</block>
-  <block id="21287f9310da73025b9619111ce2ce7e" category="sidebar">當我看到 <strong>「修正」</strong><strong></strong> 或「全部修正」按鈕時、我有哪些選項</block>
-  <block id="19966a54541b838c85278932c36c8122" category="sidebar">變更Unified Manager主機名稱（管理及監控）</block>
-  <block id="433a3de67ad10a966d2b8b61c37210d2" category="sidebar">將磁碟空間新增至Unified Manager資料庫目錄（管理及監控）</block>
+  <block id="09d454f0bf432593d99fbfd84c9f9293" category="sidebar">執行組態和管理工作</block>
 </blocks>
