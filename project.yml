@@ -1,6 +1,7 @@
 ---
 settings:
   name: Active IQ Unified Manager 9.8
+  downlevel: true
   internal:
     pdf-enabled: true
     lipi-enabled: true
