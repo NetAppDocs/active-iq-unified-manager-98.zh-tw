@@ -1,9 +1,9 @@
 ---
 section: online-help
-title: 9fde9515d3a1ede8d6f12a1892c894ec
+title: 線上說明
 entries:
 - title: 介紹功能Active IQ Unified Manager
-  pdf-filename: d667ab1eefcedffdc31f52ebff9d478d
+  pdf-filename: 介紹功能（管理與監控Active IQ Unified Manager ）
   url: "/online-help/concept-introduction-to-unified-manager.html"
   entries:
   - title: 介紹不健全狀況監控Active IQ Unified Manager
@@ -52,7 +52,7 @@ entries:
   - title: 直接從ONTAP Unified Manager修正各種問題
     url: "/online-help/concept-fixing-ontap-issues-directly-from-unified-manager.html"
     entries:
-    - title: 21287f9310da73025b9619111ce2ce7e
+    - title: 當我看到 「修正」 或「全部修正」按鈕時、我有哪些選項
       url: "/online-help/concept-what-options-do-i-have-when-i-see-the-fix-it-button.html"
     - title: 檢視您選擇修正的管理動作狀態
       url: "/online-help/task-viewing-the-status-of-all-management-actions-you-have-chosen-to-fix.html"
@@ -1409,7 +1409,7 @@ entries:
   url: "/online-help/concept-troubleshooting.html"
   entries:
   - title: 變更Unified Manager主機名稱
-    pdf-filename: 19966a54541b838c85278932c36c8122
+    pdf-filename: 變更Unified Manager主機名稱（管理及監控）
     url: "/online-help/concept-changing-the-unified-manager-host-name.html"
     entries:
     - title: 變更Unified Manager虛擬應用裝置主機名稱
@@ -1417,7 +1417,7 @@ entries:
     - title: 變更Linux系統上的Unified Manager主機名稱
       url: "/online-help/task-changing-the-unified-manager-host-name-on-rhel-or-centos.html"
   - title: 將磁碟空間新增至Unified Manager資料庫目錄
-    pdf-filename: 433a3de67ad10a966d2b8b61c37210d2
+    pdf-filename: 將磁碟空間新增至Unified Manager資料庫目錄（管理及監控）
     url: "/online-help/concept-adding-disk-space-to-the-unified-manager-database-directory.html"
     entries:
     - title: 為VMware虛擬機器的資料磁碟增加空間
