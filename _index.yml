@@ -1,0 +1,63 @@
+---
+indexpage:
+  title: 資訊文件Active IQ Unified Manager
+  summary: Active IQ Unified Manager （ Unified Manager 、前身為 OnCommand Unified Manager
+    ）可讓您從單一介面監控及管理 ONTAP 儲存系統的健全狀況與效能。此文件庫包含 9.8 版的資訊。
+  keywords: monitor, manage, health, performance, ONTAP storage systems, version 9.8.
+  lead: Active IQ Unified Manager （ Unified Manager 、前身為 OnCommand Unified Manager
+    ）可讓您從單一介面監控及管理 ONTAP 儲存系統的健全狀況與效能。此文件庫包含 9.8 版的資訊。
+  tiles:
+  - title: 開始使用
+    links:
+    - title: 版本資訊
+      url: "/release-notes.html"
+    - title: VMware vSphere的快速入門安裝
+      url: qsg-vapp.html
+    - title: Linux快速入門安裝
+      url: qsg-linux.html
+    - title: Windows快速入門安裝
+      url: qsg-windows.html
+  - title: 安裝及設定 Unified Manager
+    links:
+    - title: 在 VMware vSphere 系統上安裝與升級
+      url: install-vapp/concept-requirements-for-installing-unified-manager.html
+    - title: 在 Linux 系統上安裝與升級
+      url: install-linux/concept-requirements-for-installing-unified-manager.html
+    - title: 在 Windows 系統上安裝與升級
+      url: install-windows/concept-requirements-for-installing-unified-manager.html
+    - title: 設定Unified Manager
+      url: config/concept-configuring-unified-manager.html
+  - title: 效能監控
+    links:
+    - title: 效能臨界值
+      url: performance-checker/concept-managing-performance-thresholds.html
+    - title: 叢集效能
+      url: performance-checker/concept-monitoring-cluster-performance-from-the-dashboard.html
+    - title: QoS原則群組
+      url: performance-checker/concept-managing-performance-using-qos-policy-group-information.html
+  - title: 資料保護監控
+    links:
+    - title: 設定保護關係
+      url: "/data-protection/task-setting-up-protection-relationships-in-unified-manager.html"
+    - title: 執行容錯移轉和容錯回復
+      url: "/data-protection/task-performing-a-protection-relationship-failover-and-failback.html"
+    - title: 管理保護關係
+      url: "/data-protection/concept-managing-and-monitoring-protection-relationships.html"
+    - title: 產生報告
+      url: "/reporting/concept-unified-manager-reporting.html"
+  - title: 使用REST API
+    links:
+    - title: 開始使用
+      url: "/api-automation/concept-api-url-and-categories.html"
+    - title: REST API存取與驗Active IQ Unified Manager 證功能
+      url: "/api-automation/concept-rest-api-access-and-authentication-in-oncommand-api-services.html"
+    - title: 存取ONTAP 功能完善的API
+      url: "/api-automation/concept-gateway-apis.html"
+  - title: 更多資源
+    links:
+    - title: Unified Manager影片
+      url: https://www.youtube.com/playlist?list=PLdXI3bZJEw7mp3jFSg0IJgo3oeDQRY-Gl
+    - title: Unified Manager部落格
+      url: https://www.netapp.com/blog/#q=active%20iq%20unified%20manager&t=Blogs&sort=%40publish-date-mktg%20descending&layout=card&f:@facet-language-mktg=[English]
+    - title: 最新版Active IQ Unified Manager 的支援文件
+      url: https://docs.netapp.com/us-en/active-iq-unified-manager/index.html
